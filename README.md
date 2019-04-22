@@ -64,7 +64,7 @@ Sumário
 	<td><a href="https://3dfila.com.br/">3DFila</a></td>
     <td>Belo Horizonte - MG</td>
 	<td>ABS (Premium+, Premium+ Cristal), Flexível(TPU), PLA(Basic, EasyFill), PETG-XT, Titan-HT, HIPS</td>
-	  <td>:x:</td>
+	  <td>Sim, e com silica dentro!</td>
   </tr>
  <tr>
 	<td><a href="http://www.3dfilaplast.com.br">3D FilaPlast</a></td>
